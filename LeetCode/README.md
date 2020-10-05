@@ -1,5 +1,5 @@
 # 单调栈
-| [496.下一个更大的元素](https://leetcode-cn.com/problems/next-greater-element-i/) | [503.下一个更大的元素II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+| [496.下一个更大的元素](https://leetcode-cn.com/problems/next-greater-element-i/) | [503.下一个更大的元素II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [42.接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [84.柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [85.最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)
 
 ## 单调栈性质
 1. 单调递增栈：从 栈底 到 栈顶 递增，栈顶大
