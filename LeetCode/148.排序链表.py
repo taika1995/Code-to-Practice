@@ -14,7 +14,7 @@ class ListNode:
         self.next = next
 class Solution:
     def sortList(self, head: ListNode) -> ListNode:
-        # #递归
+        # 递归
         # if not head or not head.next:
         #     return head
         
