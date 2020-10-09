@@ -79,7 +79,5 @@ class Solution:
             intv *= 2
         return res.next
                 
-
-
 # @lc code=end
 
